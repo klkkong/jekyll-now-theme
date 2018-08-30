@@ -1,3 +1,11 @@
+---
+title: 46. Permutation
+date: 2018-8-30
+categories: 
+- LeetCode
+---
+
+
 # medium, backtracking
 
 ## accepted solution---对一个序列做全排列的标准答案
